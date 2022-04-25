@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning javascript
 - 💬 Ask me about CSS and Javascript
 - 🤔 I’m looking for help with Js callbacks and promises
-- 📫 How to reach me: [Insta -@kanak5085](https://www.instagram.com/kanak5085/) [linked_in](https://www.linkedin.com/in/kanak-shakya-41a464207/)
+- 📫 How to reach me: [Insta -@kanak5085](https://www.instagram.com/kanak5085/)     
+                       [linked_in](https://www.linkedin.com/in/kanak-shakya-41a464207/)
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: Astrophile... Let's look up at the stars and not down at feet. 
 
