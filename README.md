@@ -1,4 +1,4 @@
-### Hola, I'm Kanak Shakya! 👋
+### Hi, I'm Kanak Shakya! 👋
 
 - 🌱 I’m currently learning javascript
 - 💬 Ask me about CSS and Javascript
