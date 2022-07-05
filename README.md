@@ -1,6 +1,6 @@
 ### Hi, I'm Kanak Shakya! 👋
 
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning Node.js
 - 💬 Ask me about CSS and Javascript
 - 📫 How to reach me: [Insta -@kanak5085](https://www.instagram.com/kanak5085/)     
                        [linked_in](https://www.linkedin.com/in/kanak-shakya-41a464207/)
